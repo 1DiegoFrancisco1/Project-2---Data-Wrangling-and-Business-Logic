@@ -92,4 +92,3 @@ In upcoming stages, Store 1 will integrate these cleaned and enriched datasets i
 ### 👨‍💻 Author
 **Diego Francisco Domínguez Aguilar**  
 *Data Science Bootcamp – TripleTen (2025)*  
-📧 [Connect on LinkedIn](https://www.linkedin.com/in/tu-url-aqui)
